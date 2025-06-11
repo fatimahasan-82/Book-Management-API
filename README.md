@@ -141,3 +141,11 @@ curl http://localhost:3000/api/books
 ├── package.json
 └── README.md
 ```
+
+---
+
+## 🙌 Acknowledgements
+
+Built with 💚 using Node.js and Express.
+
+---
